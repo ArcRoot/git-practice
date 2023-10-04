@@ -1,4 +1,8 @@
 hello
 I am git master
 dmdkr
+<<<<<<< HEAD
 hello
+=======
+;aslkdjfsadf
+>>>>>>> branch1
